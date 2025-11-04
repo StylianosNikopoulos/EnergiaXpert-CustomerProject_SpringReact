@@ -25,7 +25,7 @@ EnergiaXpert is a modern web application designed to simplify the process of com
 - **Frontend:** HTML, CSS, JavaScript
 - **Database:** SQL Server with Entity Framework
 - **Email Notifications:** MimeKit & MailKit
-- **Hosting:** Microsoft Azure (custom domain)
+- **Hosting:** (custom domain)
 
 ## 📩 Contact System
 
