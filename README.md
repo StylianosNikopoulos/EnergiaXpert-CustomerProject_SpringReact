@@ -21,10 +21,10 @@ EnergiaXpert is a modern web application designed to simplify the process of com
 
 ## Tech Stack
 
-- **Backend:** ASP.NET Core MVC (C#)
-- **Frontend:** HTML, CSS, JavaScript
-- **Database:** SQL Server with Entity Framework
-- **Email Notifications:** MimeKit & MailKit
+- **Backend:** SpringBoot
+- **Frontend:** React
+- **Database:** PostgresSQL, Liquibase
+- **Email Notifications:** Mailjet
 
 ## Contact System
 
