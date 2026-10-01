@@ -1,4 +1,4 @@
-# EnergiaXpert – Energy & Gas Cost Comparison Web App
+# EnergiaXpert – Energy & Gas Cost Comparison Web App (Customer Project)
 
 **Live URL:** [EnergiaXpert Web App](https://energiaxpert.gr)
 
